@@ -15,7 +15,6 @@ Pytorchを使用するプログラムは、GPUおよびCUDAを使用できる環
 Homebrewとは、macOSオペレーティングシステム上のパッケージ管理システムのひとつである。
 
 具体的な手順は以下の項目である。
-
 1,macOS上でコマンドプロンプトを開き、
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 上記のコードをコピペする。
